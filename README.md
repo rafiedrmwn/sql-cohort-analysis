@@ -1,2 +1,1 @@
-# sql-cohort-analysis
-
+# SQL Cohort Analysis
