@@ -7,4 +7,7 @@ Explanatory Data Analysis (EDA) alongside with cohort analysis using [dataset](h
 By: Muhammad Rafie Darmawan.
 
 ## Overview
-As an intermediate and advanced assignment for SQL
+The data that would be used is TheLook e-commerce clothing. It is fictitious dataset developed by the Looker Team. It contains information such as customers, product, order, logistics, and web event.
+
+## Problem
+
