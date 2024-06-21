@@ -19,5 +19,3 @@ In order to boost the profit, as well as to get some insights regarding the user
 5. Assuming the date when the analytical request came was 15 August 2022, how is the look of the MTD (Month to Date) of total profit from each product's category? Divided by month and category.
 6. How is the condition of the monthly growth from each products? Divided by month and products, order it descendingly.
 7. How does the monthly retention customers look across 2022? We need to find out using cohort analysis to see customers' retention in the following months in 2022.
-
-## The insights
