@@ -7,6 +7,8 @@ Explanatory Data Analysis (EDA) alongside with cohort analysis using [dataset](h
 
 By: Muhammad Rafie Darmawan.
 
+![cohort](https://github.com/rafiedrmwn/sql-cohort-analysis/assets/163059751/e3f53e7b-864b-4d82-baea-dbd8024306d5)
+
 ## Overview
 The data that would be used is TheLook e-commerce clothing. It is fictitious dataset developed by the Looker Team. It contains information such as customers, product, order, logistics, and web event.
 
